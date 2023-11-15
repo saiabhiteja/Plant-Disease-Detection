@@ -1,1 +1,1 @@
-# Plant-Disease-Detection
+#PrecisionLeaf: Advanced Disease Detection

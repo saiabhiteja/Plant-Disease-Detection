@@ -1,4 +1,4 @@
-**PrecisionLeaf: Advanced Disease Detection**
+**PrecisionLeaf: Plant Disease Detection**
 
 **INTRODUCTION**
 
